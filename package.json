@@ -1,0 +1,13 @@
+{
+  "name": "neutral-shop-miniapp-demo",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Neutral Telegram Mini App storefront demo for non-restricted products",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "dependencies": {
+    "express": "^4.21.2"
+  }
+}
